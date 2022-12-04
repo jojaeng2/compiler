@@ -1,5 +1,5 @@
 a.out: lex.yy.c hw_table.c hw.tab.c
-	gcc lex.yy.c hw_table.c hw_codegen.c hw.tab.c -lfl
+	gcc lex.yy.c hw_table.c hw_codegen.c hw.tab.c -ll
 
 lex.yy.c: hw.l
 	flex hw.l
