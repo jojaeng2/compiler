@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hw_codegen.h": "c",
+        "string.h": "c",
+        "stdio.h": "c"
+    }
+}
